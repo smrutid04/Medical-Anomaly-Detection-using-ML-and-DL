@@ -4,7 +4,7 @@ This project aims to detect fraudulent or anomalous medical claims using various
 
 The dataset comprises four CSV files:
 
-**Datset**
+**Dataset**
 
 Train_Beneficiarydata.csv – Patient demographics and health history
 
